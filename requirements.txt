@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+statsmodels
+transformers
+sentence-transformers
+torch
+joblib
+umap-learn
+wordcloud
+openpyxl
+odfpy
