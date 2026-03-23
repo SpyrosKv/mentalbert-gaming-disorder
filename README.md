@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1188876195.svg)](https://doi.org/10.5281/zenodo.19188379)
+
 ## Citation
 This repository is archived on Zenodo:
 DOI: https://doi.org/10.5281/zenodo.19188380
