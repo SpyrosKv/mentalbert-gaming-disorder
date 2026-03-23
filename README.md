@@ -25,3 +25,8 @@ This repository contains the full analysis pipeline for the study:
 
 ## Reproducibility
 All analyses can be reproduced by running the notebook sequentially.
+
+## Data Availability
+Due to privacy and ethical considerations, the raw Reddit data used in this study cannot be publicly shared.
+
+All analyses are fully reproducible using the provided code pipeline and publicly available data sources.
