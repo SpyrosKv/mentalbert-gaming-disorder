@@ -1,3 +1,7 @@
+## Citation
+This repository is archived on Zenodo:
+DOI: https://doi.org/10.5281/zenodo.19188380
+
 # mentalbert-gaming-disorder
 Code and data processing pipeline for "Mapping Disordered Gaming: Semantic Patterns and Domain-Specific Language Model Classification"
 
