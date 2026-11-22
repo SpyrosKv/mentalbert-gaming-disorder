@@ -1,28 +1,33 @@
-# Python cache
+# Python/Jupyter
 __pycache__/
 *.py[cod]
-
-# Jupyter / Colab
 .ipynb_checkpoints/
-
-# Virtual environments
 .venv/
-venv/
-env/
-
-# Environment / secrets
 .env
+.env.*
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# Local editor settings
-.vscode/
-.idea/
-
-# Local runtime outputs
-*.log
-
-# Large generated artifacts from analysis
+# DO NOT COMMIT PRIVATE STUDY DATA OR OOF RECORDS
+*PRIVATE*
+*private*
+*BLIND*
+*REVIEW*.xlsx
+*review*.xlsx
+*post_level*
+*row_level*
+*membership*.csv
+*OOF*.csv
+*reviewer_gates*.json
+*.parquet
+*.ods
+*.sav
+*.pkl
+*.pickle
 *.npy
+*.npz
+*.pt
+*.bin
+*.safetensors
+*.log
+outputs/
+cache/
+secrets/
