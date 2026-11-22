@@ -1,15 +1,13 @@
 cff-version: 1.2.0
-title: "MMORPG MentalBERT Reproducible Pipeline"
+message: "Please cite the verified software release and accompanying research article."
+title: "Mapping Disordered Gaming: Semantic Patterns and Domain-Specific Language Model Classification — R2 computational code"
 type: software
 authors:
-  - family-names: "Kv"
-    given-names: "Spyros"
-    affiliation: "RMIT University"
-version: 1.0.0
-date-released: 2026-03-23
-doi: 10.5281/zenodo.19188380
-url: "https://github.com/SpyrosKv/mentalbert-gaming-disorder"
-license: "MIT"
+  - family-names: Kavvadias
+    given-names: Spyridon
+    affiliation: RMIT University
+repository-code: "https://github.com/SpyrosKv/mentalbert-gaming-disorder"
+license: MIT
 
 
 
