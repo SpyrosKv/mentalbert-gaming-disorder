@@ -22,7 +22,7 @@ The MentalBERT model may also require granting access on Hugging Face and intera
 
 ## Versions / citations
 
-This is an R2 companion release of an existing project. The older root-level file `mentalbert_mmorpg_ddo_pipeline` and the original `requirements.txt` belong to earlier repository history; use `code/MMORPG_DigitalHealth_R2_PUBLIC_SOURCE.ipynb` and `requirements-r2.txt` for this release. The repository's existing Zenodo record and the record cited by the manuscript must be reconciled before updating the permanent DOI in `CITATION.cff`. **Do not cite an unverified DOI as the R2 version.** After a new Zenodo version or GitHub release is published, add the verified DOI here.
+This is an R2 companion release of an existing project. The older root-level file `mentalbert_mmorpg_ddo_pipeline` and the original `requirements.txt` belong to earlier repository history; use `code/MMORPG_DigitalHealth_R2_PUBLIC_SOURCE.ipynb` and `requirements-r2.txt` for this release. The R2 code and aggregate analysis materials are archived on Zenodo at **https://doi.org/10.5281/zenodo.24440436**. The accompanying manuscript cites this software release; detailed reuse limits are described in `DATA_AVAILABILITY.md`.
 
 ## Responsible use
 
